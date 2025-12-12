@@ -1,5 +1,5 @@
-Frontend practice project developed during the Desenvolve Bootcamp
-This project focuses on basic HTML and CSS structure and layout composition.
+## Frontend practice project developed during the Desenvolve Bootcamp
+This project focuses on basic HTML and CSS structure, layout composition, and responsive design practice
 
-Live demo:
+**Live demo:**  
 https://debelha.github.io/restaurant-menu/
